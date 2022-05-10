@@ -18,7 +18,7 @@
  **Source Of Problem**
 
 - [https://www.acmicpc.net/](https://www.acmicpc.net/)   (백준 + solvedAC essential 3~5단계 https://solved.ac/class)
-- [https://programmers.co.kr/](https://programmers.co.kr/) (프로그래머스 - 코딩테스트 고득점  Kit)
+- [https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit](https://programmers.co.kr/) (프로그래머스 - 코딩테스트 고득점  Kit)
 - KAKAO 기출 문제
 <br/>
 <br/>
